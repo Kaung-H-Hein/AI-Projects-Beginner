@@ -13,4 +13,4 @@ This repository showcases a collection of beginner-level AI projects developed d
 
 ### 3. Diabetes Prediction
 - DiabetesPrediction.ipynb
-- This project focuses on predicting the likelihood of diabetes based on various health features, including Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, Age, and Outcome. Using Python, the data is preprocessed by standardising the features with StandardScaler and splitting the dataset into training and testing sets. A Support Vector Machine (SVM) model is trained and evaluated for accuracy using the accuracy_score metric. 
+- This project focuses on predicting the likelihood of diabetes based on various health features, including Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, and Age. Using Python, the data is preprocessed by standardising the features with StandardScaler and splitting the dataset into training and testing sets. A Support Vector Machine (SVM) model is trained and evaluated for accuracy using the accuracy_score metric. 
