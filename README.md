@@ -10,3 +10,7 @@ This repository showcases a collection of beginner-level AI projects developed d
 ### 2. Chatbot ROBO
 - Chatbot_ROBO.ipynb
 - This project is a simple rule-based chatbot named ROBO, designed to answer user queries about chatbots. It uses TF-IDF vectorisation and cosine similarity to generate context-based responses from a provided text corpus. The chatbot can recognise greetings, respond interactively, and handle basic conversations. Built with Python, it leverages libraries like NLTK for preprocessing (tokenisation, lemmatisation) and scikit-learn for text vectorisation.
+
+### 3. Diabetes Prediction
+- DiabetesPrediction.ipynb
+- This project focuses on predicting the likelihood of diabetes based on various health features, including Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, Age, and Outcome. Using Python, the data is preprocessed by standardising the features with StandardScaler and splitting the dataset into training and testing sets. A Support Vector Machine (SVM) model is trained and evaluated for accuracy using the accuracy_score metric. 
