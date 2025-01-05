@@ -18,3 +18,7 @@ This repository showcases a collection of beginner-level AI projects developed d
 ### 4. Diamond Price Forecasting 
 - DiamondPriceForecasting.ipynb
 - This project aims to forecast diamond prices based on features such as carat, cut, color, clarity, depth, table, and x, y, and z measurements. The dataset is analysed through Exploratory Data Analysis (EDA) and visualised using libraries like Seaborn and Matplotlib. Categorical data is transformed into numerical form using Label Encoding. A Random Forest Regressor model is trained to predict diamond prices, with performance evaluated using metrics like Mean Absolute Error and Mean Squared Error.
+
+### 5. Insurance Charge Prediction 
+- InsuranceChargePrediction.ipynb
+- This project focuses on predicting insurance charges based on features such as age, sex, BMI, children, smoker, and region. Through Exploratory Data Analysis (EDA) and visualisations with Seaborn and Matplotlib, the dataset is thoroughly examined. A Linear Regression model is applied for prediction, with performance assessed using the R-squared value, which indicates the proportion of variance explained by the model. This project demonstrates the use of regression techniques and data visualisation to predict insurance costs.
