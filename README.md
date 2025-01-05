@@ -5,4 +5,4 @@ This repository showcases a collection of beginner-level AI projects developed d
 
 ### Chatbot ROBO
 - Chatbot_ROBO.ipynb
-This project is a simple rule-based chatbot named ROBO, designed to answer user queries about chatbots. It uses TF-IDF vectorisation and cosine similarity to generate context-based responses from a provided text corpus. The chatbot can recognise greetings, respond interactively, and handle basic conversations. Built with Python, it leverages libraries like NLTK for preprocessing (tokenisation, lemmatisation) and scikit-learn for text vectorisation.
+- This project is a simple rule-based chatbot named ROBO, designed to answer user queries about chatbots. It uses TF-IDF vectorisation and cosine similarity to generate context-based responses from a provided text corpus. The chatbot can recognise greetings, respond interactively, and handle basic conversations. Built with Python, it leverages libraries like NLTK for preprocessing (tokenisation, lemmatisation) and scikit-learn for text vectorisation.
