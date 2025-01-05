@@ -30,7 +30,7 @@ The following machine learning models were applied across the projects:
 ### 5. Insurance Charge Prediction 
 - InsuranceChargePrediction.ipynb
 - This project focuses on predicting insurance charges based on features such as age, sex, BMI, children, smoker, and region. Through Exploratory Data Analysis (EDA) and visualisations with Seaborn and Matplotlib, the dataset is thoroughly examined. A Linear Regression model is applied for prediction, with performance assessed using the R-squared value, which indicates the proportion of variance explained by the model. This project demonstrates how regression techniques can effectively predict financial variables, offering insights for decision-making in the insurance industry.
-- 
+
 ### 6. Movie Recommendation System
 - MovieRecommendationSystem.ipynb
 - This project involves developing a simple movie recommendation system based on key features such as genres, keywords, tagline, cast, and director. The system uses TF-IDF Vectorization to convert these textual features into numerical form, then calculates cosine similarity to assess how similar movies are to one another. By leveraging difflib for string matching, the recommendation engine suggests movies based on user input. This project highlights the role of recommendation systems in enhancing user experience, showcasing a practical application of machine learning in personalising content delivery.
