@@ -13,4 +13,8 @@ This repository showcases a collection of beginner-level AI projects developed d
 
 ### 3. Diabetes Prediction
 - DiabetesPrediction.ipynb
-- This project focuses on predicting the likelihood of diabetes based on various health features, including Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, and Age. Using Python, the data is preprocessed by standardising the features with StandardScaler and splitting the dataset into training and testing sets. A Support Vector Machine (SVM) model is trained and evaluated for accuracy using the accuracy_score metric. 
+- This project focuses on predicting the likelihood of diabetes based on various health features, including Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, and Age. Using Python, the data is preprocessed by standardising the features with StandardScaler and splitting the dataset into training and testing sets. A Support Vector Machine (SVM) model is trained and evaluated for accuracy using the accuracy_score metric.
+
+### 4. Diamond Price Forecasting 
+- DiamondPriceForecasting.ipynb
+- This project aims to forecast diamond prices based on features such as carat, cut, color, clarity, depth, table, and x, y, and z measurements. The dataset is analysed through Exploratory Data Analysis (EDA) and visualised using libraries like Seaborn and Matplotlib. Categorical data is transformed into numerical form using Label Encoding. A Random Forest Regressor model is trained to predict diamond prices, with performance evaluated using metrics like Mean Absolute Error and Mean Squared Error.
