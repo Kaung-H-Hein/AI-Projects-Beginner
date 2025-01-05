@@ -1,2 +1,2 @@
 # AI-Projects-Beginner
-This repository showcases a collection of beginner-level AI projects developed during my AI module in my bachelor's degree.
+This repository showcases a collection of beginner-level AI projects developed during my AI module in my bachelor's degree. Each project is implemented in Python and explores fundamental concepts in artificial intelligence, including machine learning, data preprocessing, and predictive modelling. The projects aim to demonstrate practical applications of AI techniques while highlighting my early journey into the field.
